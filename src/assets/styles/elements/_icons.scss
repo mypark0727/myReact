@@ -1,0 +1,373 @@
+/* icons */
+.icon {
+
+  &[class*="i-14"] {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+  }
+
+  &[class*="i-16"] {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+  }
+
+  &[class*="i-18"] {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+  }
+
+  &[class*="i-22"] {
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+  }
+
+  &[class*="i-24"] {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+  }
+
+  &[class*="i-26"] {
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+  }
+
+  &[class*="i-32"] {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  // 아이콘이미지 경로
+  &.i-14-arrow-right-primary {
+    background: url("../..//images/icons/i-14-arrow-right-green.png") no-repeat center/contain;
+  }
+
+  &.i-14-arrow-right-red {
+    background: url("../..//images/icons/i-14-arrow-right-red.png") no-repeat center/contain;
+  }
+
+  &.i-14-arrow-right-black {
+    background: url("../..//images/icons/i-14-arrow-right-black.png") no-repeat center/contain;
+  }
+
+  &.i-14-arrow-right-white {
+    background: url("../..//images/icons/i-14-arrow-right-white.png") no-repeat center/contain;
+  }
+
+  &.i-14-plus-white {
+    background: url("../..//images/icons/i-14-plus-white.png") no-repeat center/contain;
+  }
+
+  &.i-14-plus-primary {
+    background: url("../..//images/icons/i-14-plus-green.png") no-repeat center/contain;
+  }
+
+  &.i-14-download {
+    background: url("../..//images/icons/i-14-download.png") no-repeat center/contain;
+  }
+
+  &.i-14-pause {
+    background: url("../..//images/icons/i-14-pause.png") no-repeat center/contain;
+  }
+
+  &.i-14-reset-pw {
+    background: url("../..//images/icons/i-14-reset-pw.png") no-repeat center/contain;
+  }
+
+  &.i-14-modify {
+    background: url("../..//images/icons/i-14-modify.png") no-repeat center/contain;
+  }
+
+  &.i-14-add-copy {
+    background: url("../..//images/icons/i-14-add-copy.png") no-repeat center/contain;
+  }
+
+  &.i-14-add-new {
+    background: url("../..//images/icons/i-14-add-new.png") no-repeat center/contain;
+  }
+
+  &.i-14-add-row {
+    background: url("../..//images/icons/i-14-add-row.png") no-repeat center/contain;
+  }
+
+  &.i-14-del-row {
+    background: url("../..//images/icons/i-14-del-row.png") no-repeat center/contain;
+  }
+
+  &.i-14-reset {
+    background: url("../..//images/icons/i-14-reset.png") no-repeat center/contain;
+  }
+
+  &.i-14-upload-primary {
+    background: url("../..//images/icons/i-14-upload-green.png") no-repeat center/contain;
+  }
+
+  &.i-14-upload-white {
+    background: url("../..//images/icons/i-14-upload-white.png") no-repeat center/contain;
+  }
+
+  &.i-14-download-white {
+    background: url("../..//images/icons/i-14-download-white.png") no-repeat center/contain;
+  }
+
+  &.i-14-del-black {
+    background: url("../..//images/icons/i-14-del-black.png") no-repeat center/contain;
+  }
+
+  &.i-16-dup-check-red {
+    background: url("../..//images/icons/i-16-dup-check-red.png") no-repeat center/contain;
+  }
+
+  &.i-16-arrow-right-red {
+    background: url("../..//images/icons/i-16-arrow-right-red.png") no-repeat center/contain;
+  }
+
+  &.i-16-download-white {
+    background: url("../..//images/icons/i-16-download-white.png") no-repeat center/contain;
+  }
+
+  &.i-18-arrow-right-primary {
+    background: url("../..//images/icons/i-18-arrow-right-green.png") no-repeat center/contain;
+  }
+
+  &.i-18-arrow-right-black {
+    background: url("../..//images/icons/i-18-arrow-right-black.png") no-repeat center/contain;
+  }
+
+  &.i-18-arrow-right-white {
+    background: url("../..//images/icons/i-18-arrow-right-white.png") no-repeat center/contain;
+  }
+
+  &.i-18-search-primary {
+    background: url("../..//images/icons/i-18-search.png") no-repeat center/contain;
+  }
+
+  &.i-18-search-white {
+    background: url("../..//images/icons/i-18-search-white.png") no-repeat center/contain;
+  }
+
+  &.i-18-save-primary {
+    background: url("../..//images/icons/i-18-save-green.png") no-repeat center/contain;
+  }
+
+  &.i-18-download {
+    background: url("../..//images/icons/i-18-download-black.png") no-repeat center/contain;
+  }
+
+  &.i-18-upload {
+    background: url("../..//images/icons/i-18-upload-black.png") no-repeat center/contain;
+  }
+
+  &.i-18-plus-white {
+    background: url("../..//images/icons/i-18-plus-white.png") no-repeat center/contain;
+  }
+
+  &.i-18-exel-green {
+    background: url("../..//images/icons/i-18-exel-green.png") no-repeat center/contain;
+  }
+
+  &.i-18-del-white {
+    background: url("../..//images/icons/i-18-del-white.png") no-repeat center/contain;
+  }
+
+  &.i-18-info-circle {
+    background: url("../..//images/icons/i-18-info-circle.png") no-repeat center/contain;
+  }
+
+  &.i-18-warn-circle {
+    background: url("../..//images/icons/i-18-warn-circle.png") no-repeat center/contain;
+  }
+
+  &.i-18-error-circle {
+    background: url("../..//images/icons/i-18-error-circle.png") no-repeat center/contain;
+  }
+
+  &.i-18-arrow-up-black {
+    background: url("../..//images/icons/i-18-arrow-up-black.png") no-repeat center/contain;
+  }
+
+  &.i-18-arrow-down-black {
+    background: url("../..//images/icons/i-18-arrow-up-black.png") no-repeat center/contain;
+    transform: rotate(180deg);
+  }
+
+  &.i-18-remove-black {
+    background: url("../..//images/icons/i-18-remove-black.png") no-repeat center/contain;
+  }
+
+  &.i-18-add-black {
+    background: url("../..//images/icons/i-18-add-black.png") no-repeat center/contain;
+  }
+
+  &.i-18-receipt-primary {
+    background: url("../..//images/icons/i-18-receipt.png") no-repeat center/contain;
+  }
+
+
+  &.i-22-success {
+    background: url("../..//images/icons/i-22-success.png") no-repeat center/contain;
+  }
+
+  &.i-22-apart {
+    background: url("../..//images/icons/i-22-apart.png") no-repeat center/contain;
+  }
+
+  &.i-22-fail {
+    background: url("../..//images/icons/i-22-fail.png") no-repeat center/contain;
+  }
+
+  &.i-26-plus-black {
+    background: url("../..//images/icons/i-26-plus-black.png") no-repeat center/contain;
+  }
+
+  &.i-26-minus-black {
+    background: url("../..//images/icons/i-26-minus-black.png") no-repeat center/contain;
+  }
+
+  &.i-32-alert-success {
+    background: url("../..//images/icons/i-32-alert-success.png") no-repeat center/contain;
+  }
+
+  &.i-32-alert-error {
+    background: url("../..//images/icons/i-32-alert-error.png") no-repeat center/contain;
+  }
+
+}
+
+/* 테마-블루일 경우 경로변경 */
+.theme-b .icon {
+  &.i-14-arrow-right-primary {
+    background: url("../..//images/icons/i-14-arrow-right-blue.png") no-repeat center/contain;
+  }
+
+  &.i-14-upload-primary {
+    background: url("../..//images/icons/i-14-upload-blue.png") no-repeat center/contain;
+  }
+
+  &.i-14-plus-primary {
+    background: url("../..//images/icons/i-14-plus-blue.png") no-repeat center/contain;
+  }
+
+  &.i-18-arrow-right-primary {
+    background: url("../..//images/icons/i-18-arrow-right-blue.png") no-repeat center/contain;
+  }
+
+  &.i-18-search-primary {
+    background: url("../..//images/icons/i-18-search-blue.png") no-repeat center/contain;
+  }
+
+  &.i-18-save-primary {
+    background: url("../..//images/icons/i-18-save-blue.png") no-repeat center/contain;
+  }
+
+  &.i-18-receipt-primary {
+    background: url("../..//images/icons/i-18-receipt-blue.png") no-repeat center/contain;
+  }
+}
+
+/* button:disabled > .icon : disabled 일 때 아이콘 이미지 경로변경 */
+.btn:disabled {
+  .v-btn__overlay {
+    display: none;
+  }
+
+  .icon {
+    &[class*="i-14-arrow-right"] {
+      background: url("../..//images/icons/i-14-arrow-right-gray.png") no-repeat center/contain;
+    }
+
+    &[class*="i-16-arrow-right"] {
+      background: url("../..//images/icons/i-16-arrow-right-gray.png") no-repeat center/contain;
+    }
+
+    &[class*="i-18-arrow-right"] {
+      background: url("../..//images/icons/i-18-arrow-right-gray.png") no-repeat center/contain;
+    }
+
+    &.i-14-reset {
+      background: url("../..//images/icons/i-14-reset-disabled.png") no-repeat center/contain;
+    }
+  }
+}
+
+/* tag */
+.tag {
+  display: inline-block;
+  padding: 0 8px;
+  line-height: 20px;
+  font-size: 12px;
+  border-radius: 4px;
+  transform: rotate(0.04deg);
+  font-weight: 600;
+
+  &.bgc-green {
+    color: $color-green-1;
+    background: $color-green-2;
+  }
+
+  &.bgc-blue {
+    color: $color-blue-1;
+    background: $color-bg-2;
+  }
+
+  &.bgc-red {
+    color: $color-orange-1;
+    background: $color-orange-2;
+  }
+
+  &.bgc-gray {
+    color: $color-black;
+    background: $color-disabled;
+  }
+
+  &.txt-round-gray {
+    padding: 0 6px;
+    line-height: 20px;
+    background: $color-bg-2;
+    color: $color-black;
+    border-radius: 10px;
+
+    b {
+      letter-spacing: -1px;
+      font-size: 13px;
+      font-weight: 400;
+    }
+  }
+}
+
+/* status-area */
+
+.status-area {
+  display: flex;
+  padding: 3px 20px;
+  background: $color-bg-1;
+}
+
+.status-box {
+  display: flex;
+  align-items: center;
+
+  &+.status-box {
+    margin-left: 20px;
+  }
+
+  i+.txt {
+    margin-left: 6px;
+  }
+
+  .txt {
+    line-height: 22px;
+    font-size: 14px;
+    color: $color-gray-1;
+  }
+}

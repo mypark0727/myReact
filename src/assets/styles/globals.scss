@@ -1,0 +1,19 @@
+// commons
+@import "./commons/variables.scss";
+@import "./commons/font.scss";
+@import "./commons/reset.scss";
+@import "./commons/layouts.scss";
+@import "./commons/commons.scss";
+
+// elements
+@import "./elements/inputs.scss";
+@import "./elements/icons.scss";
+@import "./elements/buttons.scss";
+@import "./elements/selects.scss";
+// templates
+@import "./templates/searcharea.scss";
+@import "./templates/grid.scss";
+@import "./templates/popup.scss";
+@import "./templates/cardarea.scss";
+@import "./templates/tables.scss";
+@import "./templates/chatbot.scss";
