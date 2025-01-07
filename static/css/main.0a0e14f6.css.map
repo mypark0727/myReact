@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.0a0e14f6.css","mappings":"AAIA,KAAK,eAAe","sources":["styles/globals.scss"],"sourcesContent":["// @import './_commons.scss';\n// @import './_elements.scss';\n// @import './_templates.scss';\n\nbody{background:pink;}"],"names":[],"sourceRoot":""}
