@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    // GitHub Pages의 404를 SPA로 리디렉션
+    const redirectTo = window.location.origin + '/myReact/';
+    location.replace(redirectTo + '#' + window.location.pathname.slice('/myReact'.length));
+    </script>
+</body>
+</html>
