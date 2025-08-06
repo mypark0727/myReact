@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg width="100" height="125" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <path d="m36.81,2c-19.24,9.24 -32.81,31.52 -32.81,57.54c0,34.3 23.57,62.11 52.63,62.11c17.38,0 32.79,-9.95 42.37,-25.27c-6.12,2.93 -12.8,4.57 -19.82,4.57c-29.07,0 -52.63,-27.8 -52.63,-62.11c0,-13.79 3.83,-26.53 10.27,-36.84z" display="inline" enable-background="accumulate" fill="#7e0287" id="svg_2"/>
+  </g>
+ </g>
+</svg>
